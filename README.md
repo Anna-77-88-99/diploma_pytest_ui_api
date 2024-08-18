@@ -1,0 +1,1 @@
+# diploma_pytest_ui_api
