@@ -1,0 +1,10 @@
+{
+    "ui_studio_name":"Columbia Pictures Television",
+    "ui_studio_result":"Columbia Pictures Television ",
+    "wrong_film_title": "12345678",
+    "api_years":"2021-2023",
+    "api_mpaa":"g",
+    "api_type_movie":"movie",
+    "api_studio":"Warner Bros.",
+    "api_wrong_mpaa":"allages"
+}
