@@ -19,13 +19,13 @@
 5. Открыть отчет `allure open allure-report`
 
 ### Структура:
-./test - тесты
-./pages - описание страниц
-./api - для работы с API
-./configuration - провайдер настроек
-    test_config.ini - настройки для тестов
-./testdata - провайдер тестовых данных
-    test_data.json
+- ./test - тесты
+- ./pages - описание страниц
+- ./api - для работы с API
+- ./configuration - провайдер настроек
+    - test_config.ini - настройки для тестов
+- ./testdata - провайдер тестовых данных
+    - test_data.json
 
 ### Библиотеки:
 pip install pytest
